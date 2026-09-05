@@ -37,5 +37,5 @@ Users should be able to:
 ## Author
 
 - Website - [Cheropkin Nikita](https://github.com/nikita-cheropkin)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nikita-cheropkin)
+- Frontend Mentor - [@nikita-cheropkin](https://www.frontendmentor.io/profile/nikita-cheropkin)
 
